@@ -1,6 +1,6 @@
 {
   "name": "@particeep/react-scripts",
-  "version": "3.0.1-alpha-09",
+  "version": "3.0.1-alpha-10",
   "description": "React + Yarn Workspaces Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
@@ -43,7 +43,7 @@
     "dotenv": "6.2.0",
     "dotenv-expand": "4.2.0",
     "eslint": "^5.16.0",
-    "eslint-config-react-app": "^4.0.0",
+    "eslint-config-react-app": "^5.0.2",
     "eslint-loader": "2.1.2",
     "eslint-plugin-flowtype": "2.50.1",
     "eslint-plugin-import": "2.16.0",
